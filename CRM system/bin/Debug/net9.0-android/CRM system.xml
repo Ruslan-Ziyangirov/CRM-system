@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CRM system</name>
+    </assembly>
+    <members>
+        <member name="T:CRM_system.ViewModels.CreateDealViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:CRM_system.ViewModels.CreateDealViewModel.NewCustomerContact">
+            <inheritdoc cref="F:CRM_system.ViewModels.CreateDealViewModel.newCustomerContact"/>
+        </member>
+        <member name="P:CRM_system.ViewModels.CreateDealViewModel.NewCustomerPhone">
+            <inheritdoc cref="F:CRM_system.ViewModels.CreateDealViewModel.newCustomerPhone"/>
+        </member>
+        <member name="P:CRM_system.ViewModels.CreateDealViewModel.NewCustomerAddress">
+            <inheritdoc cref="F:CRM_system.ViewModels.CreateDealViewModel.newCustomerAddress"/>
+        </member>
+        <member name="P:CRM_system.ViewModels.CreateDealViewModel.NewProductName">
+            <inheritdoc cref="F:CRM_system.ViewModels.CreateDealViewModel.newProductName"/>
+        </member>
+        <member name="P:CRM_system.ViewModels.CreateDealViewModel.NewProductWholesale">
+            <inheritdoc cref="F:CRM_system.ViewModels.CreateDealViewModel.newProductWholesale"/>
+        </member>
+        <member name="P:CRM_system.ViewModels.CreateDealViewModel.NewProductRetail">
+            <inheritdoc cref="F:CRM_system.ViewModels.CreateDealViewModel.newProductRetail"/>
+        </member>
+        <member name="P:CRM_system.ViewModels.CreateDealViewModel.NewProductDescription">
+            <inheritdoc cref="F:CRM_system.ViewModels.CreateDealViewModel.newProductDescription"/>
+        </member>
+        <member name="P:CRM_system.ViewModels.CreateDealViewModel.SelectedCustomer">
+            <inheritdoc cref="F:CRM_system.ViewModels.CreateDealViewModel.selectedCustomer"/>
+        </member>
+        <member name="P:CRM_system.ViewModels.CreateDealViewModel.DealDate">
+            <inheritdoc cref="F:CRM_system.ViewModels.CreateDealViewModel.dealDate"/>
+        </member>
+        <member name="P:CRM_system.ViewModels.CreateDealViewModel.NewProductToAdd">
+            <inheritdoc cref="F:CRM_system.ViewModels.CreateDealViewModel.newProductToAdd"/>
+        </member>
+        <member name="F:CRM_system.ViewModels.CreateDealViewModel.addSelectedProductCommand">
+            <summary>The backing field for <see cref="P:CRM_system.ViewModels.CreateDealViewModel.AddSelectedProductCommand"/>.</summary>
+        </member>
+        <member name="P:CRM_system.ViewModels.CreateDealViewModel.AddSelectedProductCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:CRM_system.ViewModels.CreateDealViewModel.AddSelectedProduct"/>.</summary>
+        </member>
+        <member name="F:CRM_system.ViewModels.CreateDealViewModel.saveDealCommand">
+            <summary>The backing field for <see cref="P:CRM_system.ViewModels.CreateDealViewModel.SaveDealCommand"/>.</summary>
+        </member>
+        <member name="P:CRM_system.ViewModels.CreateDealViewModel.SaveDealCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:CRM_system.ViewModels.CreateDealViewModel.SaveDealAsync"/>.</summary>
+        </member>
+        <member name="F:CRM_system.ViewModels.CreateDealViewModel.saveNewCustomerCommand">
+            <summary>The backing field for <see cref="P:CRM_system.ViewModels.CreateDealViewModel.SaveNewCustomerCommand"/>.</summary>
+        </member>
+        <member name="P:CRM_system.ViewModels.CreateDealViewModel.SaveNewCustomerCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:CRM_system.ViewModels.CreateDealViewModel.SaveNewCustomerAsync"/>.</summary>
+        </member>
+        <member name="F:CRM_system.ViewModels.CreateDealViewModel.saveNewProductCommand">
+            <summary>The backing field for <see cref="P:CRM_system.ViewModels.CreateDealViewModel.SaveNewProductCommand"/>.</summary>
+        </member>
+        <member name="P:CRM_system.ViewModels.CreateDealViewModel.SaveNewProductCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:CRM_system.ViewModels.CreateDealViewModel.SaveNewProductAsync"/>.</summary>
+        </member>
+        <member name="T:CRM_system.ViewModels.ProductWithQuantity">
+            <inheritdoc/>
+        </member>
+        <member name="P:CRM_system.ViewModels.ProductWithQuantity.Quantity">
+            <inheritdoc cref="F:CRM_system.ViewModels.ProductWithQuantity.quantity"/>
+        </member>
+        <member name="P:CRM_system.ViewModels.ProductWithQuantity.UnitPrice">
+            <inheritdoc cref="F:CRM_system.ViewModels.ProductWithQuantity.unitPrice"/>
+        </member>
+        <member name="M:CRM_system.ViewModels.ProductWithQuantity.OnQuantityChanged(System.Int32,System.Int32)">
+            <summary>Executes the logic for when <see cref="P:CRM_system.ViewModels.ProductWithQuantity.Quantity"/> just changed.</summary>
+            <param name="oldValue">The previous property value that was replaced.</param>
+            <param name="newValue">The new property value that was set.</param>
+            <remarks>This method is invoked right after the value of <see cref="P:CRM_system.ViewModels.ProductWithQuantity.Quantity"/> is changed.</remarks>
+        </member>
+        <member name="M:CRM_system.ViewModels.ProductWithQuantity.OnUnitPriceChanged(System.Decimal,System.Decimal)">
+            <summary>Executes the logic for when <see cref="P:CRM_system.ViewModels.ProductWithQuantity.UnitPrice"/> just changed.</summary>
+            <param name="oldValue">The previous property value that was replaced.</param>
+            <param name="newValue">The new property value that was set.</param>
+            <remarks>This method is invoked right after the value of <see cref="P:CRM_system.ViewModels.ProductWithQuantity.UnitPrice"/> is changed.</remarks>
+        </member>
+        <member name="T:CRM_system.Resource">
+            <summary>
+            Android Resource Designer class.
+            Exposes the Android Resource designer assembly into the project Namespace.
+            </summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.NewCustomerContact">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "NewCustomerContact" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.NewCustomerPhone">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "NewCustomerPhone" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.NewCustomerAddress">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "NewCustomerAddress" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.NewProductName">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "NewProductName" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.NewProductWholesale">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "NewProductWholesale" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.NewProductRetail">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "NewProductRetail" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.NewProductDescription">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "NewProductDescription" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.SelectedCustomer">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "SelectedCustomer" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.DealDate">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "DealDate" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.NewProductToAdd">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "NewProductToAdd" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Quantity">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Quantity" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.UnitPrice">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "UnitPrice" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.NewCustomerContact">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "NewCustomerContact" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.NewCustomerPhone">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "NewCustomerPhone" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.NewCustomerAddress">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "NewCustomerAddress" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.NewProductName">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "NewProductName" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.NewProductWholesale">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "NewProductWholesale" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.NewProductRetail">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "NewProductRetail" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.NewProductDescription">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "NewProductDescription" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.SelectedCustomer">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "SelectedCustomer" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.DealDate">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "DealDate" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.NewProductToAdd">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "NewProductToAdd" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Quantity">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Quantity" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.UnitPrice">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "UnitPrice" generated properties.</summary>
+        </member>
+    </members>
+</doc>
