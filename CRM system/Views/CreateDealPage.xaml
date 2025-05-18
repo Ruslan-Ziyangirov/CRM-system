@@ -19,7 +19,7 @@
             <Entry Placeholder="Телефон" Keyboard="Telephone" Text="{Binding NewCustomerPhone}" />
             <Entry Placeholder="Адрес" Text="{Binding NewCustomerAddress}" />
 
-            <Button Text="Сохранить клиента" BackgroundColor="DarkGreen" TextColor="White" Margin="0,5" Command="{Binding SaveNewCustomerAsyncCommand}" />
+            <Button Text="Сохранить клиента" BackgroundColor="DarkGreen" TextColor="White" Margin="0,5" Command="{Binding SaveNewCustomerCommand}" />
 
             <Label Text="Дата сделки:" FontAttributes="Bold" />
             <DatePicker Date="{Binding DealDate}" />
@@ -28,6 +28,9 @@
             <Picker ItemsSource="{Binding Products}"
                     ItemDisplayBinding="{Binding Name}"
                     SelectedItem="{Binding NewProductToAdd}" />
+
+            <Label Text="Количество:" />
+            <Entry Placeholder="Количество" Keyboard="Numeric" Text="{Binding ProductQuantity}" />
             <Button Text="Добавить товар" Command="{Binding AddSelectedProductCommand}" />
 
             <Label Text="Добавить новый товар:" FontAttributes="Bold" Margin="0,30,0,5" />
@@ -38,7 +41,7 @@
             <Editor Placeholder="Описание" AutoSize="TextChanges" Text="{Binding NewProductDescription}" />
 
             <Button Text="Сохранить товар" Command="{Binding SaveNewProductCommand}" BackgroundColor="DarkBlue" TextColor="White" Margin="0,5" />
-            
+
             <CollectionView ItemsSource="{Binding SelectedProducts}" Margin="0,10">
                 <CollectionView.ItemTemplate>
                     <DataTemplate>
@@ -55,7 +58,7 @@
             </CollectionView>
 
             <Label Text="{Binding Summary}" FontSize="16" TextColor="DarkGreen" />
-            <Button Text="Сохранить сделку" Command="{Binding SaveDealAsyncCommand}" BackgroundColor="Green" TextColor="White" />
+            <Button Text="Сохранить сделку" Command="{Binding SaveDealCommand}" BackgroundColor="Green" TextColor="White" />
         </VerticalStackLayout>
     </ScrollView>
 </ContentPage>

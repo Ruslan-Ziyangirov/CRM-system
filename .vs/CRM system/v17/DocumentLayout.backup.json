@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|c:\\users\\ziyan\\desktop\\learning mag\\rpcs\\crm system\\crm system\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|solutionrelative:crm system\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|c:\\users\\ziyan\\desktop\\learning mag\\rpcs\\crm system\\crm system\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|solutionrelative:crm system\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|c:\\users\\ziyan\\desktop\\learning mag\\rpcs\\crm system\\crm system\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,30 +15,6 @@
       "RelativeMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|solutionrelative:crm system\\viewmodels\\createdealviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|c:\\users\\ziyan\\desktop\\learning mag\\rpcs\\crm system\\crm system\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|solutionrelative:crm system\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|c:\\users\\ziyan\\desktop\\learning mag\\rpcs\\crm system\\crm system\\views\\createdealpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|solutionrelative:crm system\\views\\createdealpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|c:\\users\\ziyan\\desktop\\learning mag\\rpcs\\crm system\\crm system\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|solutionrelative:crm system\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|c:\\users\\ziyan\\desktop\\learning mag\\rpcs\\crm system\\crm system\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|solutionrelative:crm system\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|c:\\users\\ziyan\\desktop\\learning mag\\rpcs\\crm system\\crm system\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|solutionrelative:crm system\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|c:\\users\\ziyan\\desktop\\learning mag\\rpcs\\crm system\\crm system\\views\\createdealpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|solutionrelative:crm system\\views\\createdealpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|c:\\users\\ziyan\\desktop\\learning mag\\rpcs\\crm system\\crm system\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|solutionrelative:crm system\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,8 +23,40 @@
       "RelativeMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|solutionrelative:crm system\\services\\appdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|c:\\users\\ziyan\\desktop\\learning mag\\rpcs\\crm system\\crm system\\models\\statusoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|solutionrelative:crm system\\models\\statusoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|c:\\users\\ziyan\\desktop\\learning mag\\rpcs\\crm system\\crm system\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|solutionrelative:crm system\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|c:\\users\\ziyan\\desktop\\learning mag\\rpcs\\crm system\\crm system\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|solutionrelative:crm system\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|c:\\users\\ziyan\\desktop\\learning mag\\rpcs\\crm system\\crm system\\views\\createdealpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|solutionrelative:crm system\\views\\createdealpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|c:\\users\\ziyan\\desktop\\learning mag\\rpcs\\crm system\\crm system\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|solutionrelative:crm system\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|c:\\users\\ziyan\\desktop\\learning mag\\rpcs\\crm system\\crm system\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|solutionrelative:crm system\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|c:\\users\\ziyan\\desktop\\learning mag\\rpcs\\crm system\\crm system\\views\\createdealpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|solutionrelative:crm system\\views\\createdealpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|c:\\users\\ziyan\\desktop\\learning mag\\rpcs\\crm system\\crm system\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|solutionrelative:crm system\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|c:\\users\\ziyan\\desktop\\learning mag\\rpcs\\crm system\\crm system\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|solutionrelative:crm system\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5608BF9D-9A58-4A31-B75B-7ADFFCC25B43}|CRM system\\CRM system.csproj|c:\\users\\ziyan\\desktop\\learning mag\\rpcs\\crm system\\crm system\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,72 +78,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreateDealViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\ViewModels\\CreateDealViewModel.cs",
-              "RelativeDocumentMoniker": "CRM system\\ViewModels\\CreateDealViewModel.cs",
-              "ToolTip": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\ViewModels\\CreateDealViewModel.cs",
-              "RelativeToolTip": "CRM system\\ViewModels\\CreateDealViewModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "CRM system\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "CRM system\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAAGMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T19:30:44.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T19:28:57.037Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\AppShell.xaml",
-              "RelativeDocumentMoniker": "CRM system\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\AppShell.xaml",
-              "RelativeToolTip": "CRM system\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-29T15:51:19.513Z",
-              "EditorCaption": ""
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CRM system\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\Models\\Product.cs",
+              "RelativeToolTip": "CRM system\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:50:41.093Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CreateDealPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\Views\\CreateDealPage.xaml.cs",
-              "RelativeDocumentMoniker": "CRM system\\Views\\CreateDealPage.xaml.cs",
-              "ToolTip": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\Views\\CreateDealPage.xaml.cs",
-              "RelativeToolTip": "CRM system\\Views\\CreateDealPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Title": "AppDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\Services\\AppDatabase.cs",
+              "RelativeDocumentMoniker": "CRM system\\Services\\AppDatabase.cs",
+              "ToolTip": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\Services\\AppDatabase.cs",
+              "RelativeToolTip": "CRM system\\Services\\AppDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T19:37:53.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "CRM system\\AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\AppShell.xaml.cs",
-              "RelativeToolTip": "CRM system\\AppShell.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T15:53:03.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T19:32:40.528Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\App.xaml.cs",
-              "RelativeDocumentMoniker": "CRM system\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\App.xaml.cs",
-              "RelativeToolTip": "CRM system\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Title": "StatusOptions.cs",
+              "DocumentMoniker": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\Models\\StatusOptions.cs",
+              "RelativeDocumentMoniker": "CRM system\\Models\\StatusOptions.cs",
+              "ToolTip": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\Models\\StatusOptions.cs",
+              "RelativeToolTip": "CRM system\\Models\\StatusOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T15:53:11.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T17:03:20.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\App.xaml",
+              "RelativeDocumentMoniker": "CRM system\\App.xaml",
+              "ToolTip": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\App.xaml",
+              "RelativeToolTip": "CRM system\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-30T09:08:33.931Z"
             },
             {
               "$type": "Document",
@@ -143,37 +146,23 @@
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\Views\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "CRM system\\Views\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\Views\\MainPage.xaml.cs*",
-              "RelativeToolTip": "CRM system\\Views\\MainPage.xaml.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAHAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "CRM system\\Views\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T19:42:33.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T19:42:33.279Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\App.xaml",
-              "RelativeDocumentMoniker": "CRM system\\App.xaml",
-              "ToolTip": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\App.xaml",
-              "RelativeToolTip": "CRM system\\App.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "CRM system\\Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\Views\\MainPage.xaml",
+              "RelativeToolTip": "CRM system\\Views\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-30T09:08:33.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\ViewModels\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "CRM system\\ViewModels\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\ViewModels\\MainViewModel.cs",
-              "RelativeToolTip": "CRM system\\ViewModels\\MainViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T19:28:57.037Z",
+              "WhenOpened": "2025-04-23T19:53:34.394Z",
               "EditorCaption": ""
             },
             {
@@ -184,51 +173,85 @@
               "RelativeDocumentMoniker": "CRM system\\Views\\CreateDealPage.xaml",
               "ToolTip": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\Views\\CreateDealPage.xaml",
               "RelativeToolTip": "CRM system\\Views\\CreateDealPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-23T19:37:35.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T19:37:35.807Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\Views\\MainPage.xaml",
-              "RelativeDocumentMoniker": "CRM system\\Views\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\Views\\MainPage.xaml",
-              "RelativeToolTip": "CRM system\\Views\\MainPage.xaml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-23T19:53:34.394Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "CreateDealViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\ViewModels\\CreateDealViewModel.cs",
+              "RelativeDocumentMoniker": "CRM system\\ViewModels\\CreateDealViewModel.cs",
+              "ToolTip": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\ViewModels\\CreateDealViewModel.cs",
+              "RelativeToolTip": "CRM system\\ViewModels\\CreateDealViewModel.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAIwIIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:30:44.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "CRM system\\Models\\Sale.cs",
+              "ToolTip": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\Models\\Sale.cs",
+              "RelativeToolTip": "CRM system\\Models\\Sale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:40:46.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "CRM system\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\AppShell.xaml.cs",
+              "RelativeToolTip": "CRM system\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:53:03.266Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "AppDatabase.cs",
-              "DocumentMoniker": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\Services\\AppDatabase.cs",
-              "RelativeDocumentMoniker": "CRM system\\Services\\AppDatabase.cs",
-              "ToolTip": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\Services\\AppDatabase.cs",
-              "RelativeToolTip": "CRM system\\Services\\AppDatabase.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwC4AAABDAAAAAAAAAA==",
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\App.xaml.cs",
+              "RelativeDocumentMoniker": "CRM system\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\App.xaml.cs",
+              "RelativeToolTip": "CRM system\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T19:32:40.528Z"
+              "WhenOpened": "2025-04-29T15:53:11.651Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "CRM system\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\Models\\Product.cs",
-              "RelativeToolTip": "CRM system\\Models\\Product.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Title": "CreateDealPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\Views\\CreateDealPage.xaml.cs",
+              "RelativeDocumentMoniker": "CRM system\\Views\\CreateDealPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\Views\\CreateDealPage.xaml.cs",
+              "RelativeToolTip": "CRM system\\Views\\CreateDealPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T19:50:41.093Z"
+              "WhenOpened": "2025-04-23T19:37:53.67Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\AppShell.xaml",
+              "RelativeDocumentMoniker": "CRM system\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\AppShell.xaml",
+              "RelativeToolTip": "CRM system\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T15:51:19.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\MauiProgram.cs",
               "RelativeDocumentMoniker": "CRM system\\MauiProgram.cs",
@@ -240,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "CRM system.csproj",
               "DocumentMoniker": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\CRM system.csproj",
               "RelativeDocumentMoniker": "CRM system\\CRM system.csproj",
@@ -252,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\ziyan\\Desktop\\Learning Mag\\RPCS\\CRM system\\CRM system\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "CRM system\\Models\\Customer.cs",

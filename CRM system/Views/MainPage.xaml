@@ -5,31 +5,42 @@
     x:Class="CRM_system.Views.MainPage">
 
 
+
     <VerticalStackLayout Padding="20">
+        <Picker Title="Тема" SelectedIndexChanged="OnThemeChanged" Margin="0,0,0,10">
+            <Picker.Items>
+                <x:String>Светлая</x:String>
+                <x:String>Тёмная</x:String>
+            </Picker.Items>
+        </Picker>
         <Label Text="Сделки" FontSize="24" FontAttributes="Bold" />
         <Button Text="Добавить сделку" Clicked="OnAddDealClicked" Margin="0,20,0,40" />
 
         <!-- Заголовки таблицы -->
-        <Grid ColumnDefinitions="2*,2*,*,*,*,*" Padding="4" BackgroundColor="#EEEEEE">
+        <Grid ColumnDefinitions="2*,2*,*,*,*,*,3*,2*" Padding="4" BackgroundColor="#EEEEEE">
             <Label Grid.Column="0" BackgroundColor="#F5F5F5" Text="Дата" FontAttributes="Bold" />
             <Label Grid.Column="1" BackgroundColor="#FAFAFA" Text="Покупатель" FontAttributes="Bold" />
             <Label Grid.Column="2" BackgroundColor="#F0F0F0" Text="Кол-во" FontAttributes="Bold" HorizontalTextAlignment="Center" />
             <Label Grid.Column="3" BackgroundColor="#FAFAFA" Text="Сумма" FontAttributes="Bold" HorizontalTextAlignment="Center" />
             <Label Grid.Column="4" BackgroundColor="#F5F5F5" Text="Опт" FontAttributes="Bold" HorizontalTextAlignment="Center" />
             <Label Grid.Column="5" BackgroundColor="#F0F0F0" Text="Скидка" FontAttributes="Bold" HorizontalTextAlignment="Center" />
+            <Label Grid.Column="6" BackgroundColor="#F0F0F0" Text="Товары" FontAttributes="Bold" HorizontalTextAlignment="Center" />
+            <Label Grid.Column="7" BackgroundColor="#EFEFEF" Text="Статус" FontAttributes="Bold" HorizontalTextAlignment="Center" />
         </Grid>
 
         <!-- Данные сделок -->
         <CollectionView ItemsSource="{Binding Deals}">
             <CollectionView.ItemTemplate>
                 <DataTemplate>
-                    <Grid ColumnDefinitions="2*,2*,*,*,*,*" Padding="4">
+                    <Grid ColumnDefinitions="2*,2*,*,*,*,*,3*,2*" Padding="4">
                         <Label Grid.Column="0" Text="{Binding Date, StringFormat='{0:dd.MM.yyyy}'}" />
                         <Label Grid.Column="1" Text="{Binding CustomerName}" />
                         <Label Grid.Column="2" Text="{Binding TotalItems}" HorizontalTextAlignment="Center" />
                         <Label Grid.Column="3" Text="{Binding TotalAmount}" HorizontalTextAlignment="Center" />
                         <Label Grid.Column="4" Text="{Binding IsWholesale}" HorizontalTextAlignment="Center" />
                         <Label Grid.Column="5" Text="{Binding Discount}" HorizontalTextAlignment="Center" />
+                        <Label Grid.Column="6" Text="{Binding ProductList}" />
+                        <Picker Grid.Column="7" ItemsSource="{Binding StatusOptions}" SelectedItem="{Binding SelectedStatus}" HorizontalOptions="Fill" Margin="0" BackgroundColor="White"/>
                     </Grid>
                 </DataTemplate>
             </CollectionView.ItemTemplate>

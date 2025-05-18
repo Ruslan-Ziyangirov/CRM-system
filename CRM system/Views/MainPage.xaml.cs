@@ -35,6 +35,17 @@ public partial class MainPage : ContentPage
 
 
     }
+
+
+    private void OnThemeChanged(object sender, EventArgs e)
+    {
+        var picker = sender as Picker;
+        if (picker.SelectedIndex == 0)
+            App.Current.UserAppTheme = AppTheme.Light;
+        else if (picker.SelectedIndex == 1)
+            App.Current.UserAppTheme = AppTheme.Dark;
+    }
+
 }
 
 

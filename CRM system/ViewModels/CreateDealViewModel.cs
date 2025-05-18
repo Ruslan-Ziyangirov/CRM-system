@@ -14,6 +14,9 @@ public partial class CreateDealViewModel : ObservableObject
     public ObservableCollection<Product> Products { get; } = new();
     public ObservableCollection<ProductWithQuantity> SelectedProducts { get; } = new();
 
+    [ObservableProperty]
+    private int productQuantity = 1;
+
     [ObservableProperty] private string newCustomerContact = string.Empty;
     [ObservableProperty] private string newCustomerPhone = string.Empty;
     [ObservableProperty] private string newCustomerAddress = string.Empty;
@@ -75,15 +78,27 @@ public partial class CreateDealViewModel : ObservableObject
             SelectedProducts.Add(new ProductWithQuantity
             {
                 Product = NewProductToAdd,
-                Quantity = 1,
+                Quantity = ProductQuantity,
                 UnitPrice = NewProductToAdd.RetailPrice
             });
+            NewProductToAdd = null;
+            ProductQuantity = 1;
         }
     }
 
     [RelayCommand]
-    private async Task SaveDealAsync()
+    public async Task SaveDealAsync()
     {
+
+        Console.WriteLine("👉 SaveDealAsync() вызван");
+
+        if (SelectedCustomer is null || SelectedProducts.Count == 0)
+        {
+            Console.WriteLine("⛔ Не выбран покупатель или нет товаров");
+            return;
+        }
+
+
         if (SelectedCustomer is null || SelectedProducts.Count == 0)
             return;
 
@@ -91,10 +106,12 @@ public partial class CreateDealViewModel : ObservableObject
         {
             CustomerId = SelectedCustomer.Id,
             Date = DealDate,
-            IsWholesale = SelectedProducts.Sum(p => p.Quantity) >= 10
+            IsWholesale = SelectedProducts.Sum(p => p.Quantity) >= 10,
+            Status = "Новая"
         };
 
         await _db.SaveSaleAsync(sale);
+        Console.WriteLine($"✅ Сделка сохранена: {sale.Id}");
 
         foreach (var p in SelectedProducts)
         {
@@ -107,10 +124,13 @@ public partial class CreateDealViewModel : ObservableObject
                 Discount = p.Quantity >= 10 ? p.UnitPrice * 0.1m : 0
             };
             await _db.SaveSaleItemAsync(item);
+            Console.WriteLine($"🟢 Товар сохранен: {p.Product.Name}");
         }
 
         // Возврат на главную страницу
+        await Shell.Current.DisplayAlert("Успешно", "Сделка сохранена", "Ок");
         await Shell.Current.GoToAsync("..");
+        Console.WriteLine("🔁 Попытка возврата на главную страницу");
     }
 
     [RelayCommand]

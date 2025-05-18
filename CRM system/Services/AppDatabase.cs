@@ -25,6 +25,11 @@ namespace CRM_system.Services
         public Task<Customer> GetCustomerAsync(int id) =>_db.Table<Customer>().Where(c => c.Id == id).FirstOrDefaultAsync();
         public Task<int> SaveProductAsync(Product item) => item.Id != 0 ? _db.UpdateAsync(item) : _db.InsertAsync(item);
         public Task<int> DeleteProductAsync(Product item) => _db.DeleteAsync(item);
+
+        public Task<Product> GetProductAsync(int id)
+        {
+            return _db.Table<Product>().Where(p => p.Id == id).FirstOrDefaultAsync();
+        }
         #endregion
 
         #region Customer
@@ -50,5 +55,10 @@ namespace CRM_system.Services
             return list.Cast<object>();
         }
         #endregion
+
+        public async Task<Sale> GetSaleAsync(int id)
+        {
+            return await _db.Table<Sale>().Where(s => s.Id == id).FirstOrDefaultAsync();
+        }
     }
 }

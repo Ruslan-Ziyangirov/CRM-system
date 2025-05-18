@@ -18,5 +18,8 @@ namespace CRM_system.Models
         public int CustomerId { get; set; }
 
         public bool IsWholesale { get; set; }
+
+        [SQLite.NotNull]
+        public string Status { get; set; } = "Новая";
     }
 }
